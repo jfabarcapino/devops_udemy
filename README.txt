@@ -56,4 +56,5 @@ Podrá encontar el detalle de los casos en /BANK_TECHNICAL_TEST/src/test/java/co
 
 Echo por Carlos Adrian Soto Botero.
 http://localhost:8080/amil@gmail.com
+Se agrega esta línea para probar actualización de la rama feature con la rama master.
 
